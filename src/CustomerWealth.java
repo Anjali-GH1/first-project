@@ -20,6 +20,7 @@ public class CustomerWealth {
 //      System.out.println(accounts);
         int wealth = maximumWealth(accounts, m, n);
         System.out.println(wealth);
+        System.out.println("hi");
 
     }
     public static int maximumWealth(ArrayList<ArrayList<Integer>> accounts, int m, int n) {
